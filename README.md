@@ -59,20 +59,19 @@ group conversations.
 
 ---
 
-### ◉ Taskifyy
+### ◉ Real Estate Property Listing
 
-A full-stack task management application designed around
-collaborative workflows.
+A full-stack real estate platform for discovering, listing, and
+managing properties with a responsive and user-friendly interface.
 
 **React · Node.js · Express · MongoDB**
 
-→ Task management  
-→ REST APIs  
-→ Drag & drop workflow  
-→ Authentication  
-→ Responsive interface
-
----
+→ Property listings
+→ Search & filtering
+→ Property details
+→ User authentication
+→ Property management
+→ Responsive design
 
 ## 🧩 What I Like Building
 
