@@ -85,3 +85,54 @@ Scalable web applications
 Cloud & DevOps
         ↓
 AI-powered products
+
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aviralawasthi2005&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralawasthi2005&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aviralawasthi2005&theme=transparent&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aviralawasthi2005&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[LinkedIn](YOUR_LINKEDIN_URL) •
+[Portfolio](YOUR_PORTFOLIO_URL) •
+[Email](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building. Learning. Shipping.
+
+</div>
