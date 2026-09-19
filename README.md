@@ -119,10 +119,16 @@ Scalable web applications
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aviralawasthi2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralawasthi2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aviralawasthi2005&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 
 </div>
 
